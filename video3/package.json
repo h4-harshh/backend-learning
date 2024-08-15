@@ -1,0 +1,16 @@
+{
+  "name": "cls",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start":"node script.js",
+    "chacha":"echo \"this has to be print\"",
+    
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "harsh":"echo \"this is harsh\""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

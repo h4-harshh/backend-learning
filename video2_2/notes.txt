@@ -1,0 +1,11 @@
+protocol-rules
+
+internet par kuch bhi karne ke leye rules bnaye gye hai unke dware jinhone internet banaya hai.un rules ko follow karna jaruri hai,
+aur ye rules follow ho isliye ye rules app ke operating system ke software mein pre installed aate hai
+
+
+http-protocol
+
+yhi protocol hai ya rule hai jisko follow kare bina app internet pe na hi kuch bhej saakte ho,naa hi kuch manga sakte ho
+
+if don't follow http -internet use nhi kar sakte
